@@ -1,0 +1,19 @@
+#compilacion
+bin/
+obj/
+
+# IDE
+.vscode/
+.idea/
+.vs/
+*.user
+
+# Archivos temporales
+*.tmp
+*.log
+*.cache
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
